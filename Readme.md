@@ -4,10 +4,10 @@ Labyrinth is unsuprisingly a digital recreation of the board game of the same na
 
 ## Authors
 
-Todd Dyer
-Sam Tudberry
-Mae Hedmann-Highmore
-Marta Piaszczynska
-Navid Reaz
-Ben Macdonald
+Todd Dyer,
+Sam Tudberry,
+Mae Hedmann-Highmore,
+Marta Piaszczynska,
+Navid Reaz,
+Ben Macdonald,
 Ben Frampton
